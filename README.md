@@ -1,0 +1,1 @@
+Odin assignment to create a cooking blog website with an index linking to various recipes
